@@ -1,0 +1,29 @@
+﻿body 
+{
+    margin:0;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+@font-face
+{
+  font-family: 'Exo';
+  src: url('Fonts/Exo-Regular.otf');
+}
+
+@font-face 
+{
+  font-family: 'Montez';
+  src: url('Fonts/Montez-Regular.ttf');
+}
+
+#MainCanvas
+{
+    vertical-align: top;
+    display: block;
+    overflow: auto;
+}
+
+span 
+{
+    font-style: italic;
+}
